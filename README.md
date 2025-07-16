@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/shrikanth-dev/four-card-feature-section-solution)
+- Live Site URL: [live site URL](https://shrikanth-dev.github.io/four-card-feature-section-solution/)
 
 ### Built with
 
